@@ -1,0 +1,8 @@
+.list-item {
+  list-style-type: none;
+}
+.countries-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
